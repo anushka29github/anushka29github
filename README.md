@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 I am an AI/ML enthusiast<br>🌱 I am currently learning deep learning and Gen AI<br> 🤩 I am also an frontend developer
+😄 I am an AI/ML enthusiast<br>🌱 I am currently learning deep learning and Gen AI<br> 
 
 
 ## 🌐 Socials:
